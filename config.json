@@ -1,0 +1,8 @@
+{
+    "username": "LauraLoomer",
+    "keyword": "Palestine",
+    "since": "2025-01-01",
+    "until": "2025-10-27",
+    "output_file": "tweets.csv",
+    "max_tweets": 100
+}
